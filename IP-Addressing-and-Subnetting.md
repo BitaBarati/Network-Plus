@@ -66,7 +66,7 @@
 
 ### Zero-Configuration Networking
 
-**Techniques that enable devices to communicate with minimal manual configuration, including link-local addressing, mDNS, and DNS-SD.**
+- **Techniques that enable devices to communicate with minimal manual configuration, including link-local addressing, mDNS, and DNS-SD.**
 
 ## 4. Subnetting and Supernetting
 
@@ -98,7 +98,7 @@ For a conventional IPv4 subnet with (h) host bits:
 | `/29` | `255.255.255.248` | 8 | 6 |
 | `/30` | `255.255.255.252` | 4 | 2 
 
-\* Conventional IPv4 subnets.
+**Conventional IPv4 subnets.**
 
 ## 5. Route Summarization Examples
 
