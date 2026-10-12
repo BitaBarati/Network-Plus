@@ -104,9 +104,6 @@ For a conventional IPv4 subnet with (h) host bits:
 
 ### Example 1: Four /24 Networks
 
-**Original Networks**
-
-'''text
 192.168.0.0/24
 192.168.1.0/24
 192.168.2.0/24
@@ -124,12 +121,12 @@ For a conventional IPv4 subnet with (h) host bits:
 
 **Correction:** The aggregate is /20, not /12. 172.16.0.0/12 represents the entire private range from 172.16.0.0 through 172.31.255.255.
 
-** 6. Subnetting Exercises
+6. **Subnetting Exercises**
 
-*** Exercise 1: Divide 192.168.1.0/24 into 4 Equal Subnets
+ Exercise 1: Divide 192.168.1.0/24 into 4 Equal Subnets
 
 - **Borrow 2 bits:** (2^2 = 4)
-- ** New prefix:** /26
+- **New prefix:** /26
 - **Subnet mask:** 255.255.255.192
 - **Usable hosts per subnet:** 62
 
@@ -213,11 +210,11 @@ Requirement: Create subnets supporting 100, 50, and 20 usable hosts from 192.168
 
 ## 8. Useful References
 
-- **IANA — IPv4 Special-Purpose Address Registry⁠￼
-- **RFC 1918 — Private IPv4 Addressing⁠￼
-- **RFC 4632 — CIDR and Route Aggregation⁠￼
+- **IANA — IPv4 Special-Purpose Address Registry⁠**￼
+- **RFC 1918 — Private IPv4 Addressing⁠**￼
+- **RFC 4632 — CIDR and Route Aggregation⁠**
 
 # 9. Tools
 
-- **NirSoft⁠￼ — Windows network and system utilities.
-- **IP Calculator — Use any trusted subnet calculator to verify subnetting results.
+- **NirSoft⁠￼ — Windows network and system utilities.**
+- **IP Calculator — Use any trusted subnet calculator to verify subnetting results.**
