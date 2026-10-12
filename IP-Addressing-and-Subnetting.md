@@ -42,14 +42,14 @@
 
 ## 3. Address Allocation and Network Services
 
-- **ICANN: Coordinates policies related to the global Internet’s unique identifiers.
-- **IANA: Coordinates global IP address and protocol-parameter registries and allocations.
-- **RIR (Regional Internet Registry): Manages IP address resources for a geographic region.
-- **RIPE NCC: RIR serving Europe, the Middle East, and parts of Central Asia.
-- **LIR (Local Internet Registry): Organization that receives and distributes IP resources under an RIR.
-- **NAT (Network Address Translation): Translates IP addresses between network realms.
-- **DHCP: Automatically provides IP configuration to clients.
-- **DHCP Reservation: Assigns a predictable IP address to a client based on an identifier, commonly its MAC address.
+- **ICANN: Coordinates policies related to the global Internet’s unique identifiers.**
+- **IANA: Coordinates global IP address and protocol-parameter registries and allocations.**
+- **RIR (Regional Internet Registry): Manages IP address resources for a geographic region.**
+- **RIPE NCC: RIR serving Europe, the Middle East, and parts of Central Asia.**
+- **LIR (Local Internet Registry): Organization that receives and distributes IP resources under an RIR.**
+- **NAT (Network Address Translation): Translates IP addresses between network realms.**
+- **DHCP: Automatically provides IP configuration to clients.**
+- **DHCP Reservation: Assigns a predictable IP address to a client based on an identifier, commonly its MAC address.**
 
 ### DHCP DORA Process
 
