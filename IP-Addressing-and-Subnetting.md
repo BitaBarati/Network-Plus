@@ -60,9 +60,9 @@
 
 ### Local Name Resolution and Service Discovery
 
-- **mDNS: Multicast DNS for local name resolution without conventional DNS infrastructure.
-- **DNS-SD: Discovers services using DNS records.
-- **LLMNR: Link-Local Multicast Name Resolution; a legacy local name-resolution mechanism.
+- **mDNS: Multicast DNS for local name resolution without conventional DNS infrastructure.**
+- **DNS-SD: Discovers services using DNS records.**
+- **LLMNR: Link-Local Multicast Name Resolution; a legacy local name-resolution mechanism.**
 
 ### Zero-Configuration Networking
 
