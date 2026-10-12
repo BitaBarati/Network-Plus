@@ -109,7 +109,7 @@ For a conventional IPv4 subnet with (h) host bits:
 192.168.2.0/24
 192.168.3.0/24
 ----------------
-192.168.0.0/22
+**192.168.0.0/22**
 
 ### Example 2: Sixteen /24 Networks
 
