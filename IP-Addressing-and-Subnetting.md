@@ -66,7 +66,7 @@
 
 ### Zero-Configuration Networking
 
-Techniques that enable devices to communicate with minimal manual configuration, including link-local addressing, mDNS, and DNS-SD.
+**Techniques that enable devices to communicate with minimal manual configuration, including link-local addressing, mDNS, and DNS-SD.**
 
 ## 4. Subnetting and Supernetting
 
